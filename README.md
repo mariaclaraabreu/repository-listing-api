@@ -1,7 +1,9 @@
 # Repository listing: Desafio 1 do GoStack 13 da Rocketseat
 
 <h2>Descrição:</h2>
-<p>Neste repositório há a implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem, atualização, exclusão e inserção de likes em repositórios.</p>
+<p>Neste repositório há a implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem, atualização, exclusão e inserção de likes em repositórios.
+  O <b>desafio completo</b> está <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">aqui</a>.
+</p>
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
