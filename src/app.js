@@ -21,34 +21,27 @@ function validateRepoId(req, res, next) {
 
 }
 
-function validateLikesInitialize(req, res, next) {
-  const { likes } = req.body;
 
-  if(likes > 0){
-    return res.status(400).json({ error: 'Invalid number of likes.'})
-  }
-  return next();
-
-}
 
 app.get("/repositories", (request, response) => {
     
   return response.json(repositories);
 });
 
-app.post("/repositories", validateLikesInitialize, (request, response) => {
-  const { title, url, techs, likes } = request.body;
+app.post("/repositories", (request, response) => {
+  const { title, url, techs } = request.body;
   
-  
-  // const techsArray = techs.split(', ');
-
-  const project = { id: uuid(), title, url, techs, likes};
+  const project = { 
+    id: uuid(), 
+    title, 
+    url, 
+    techs, 
+    likes: 0,
+  };
 
   repositories.push(project);
 
   return response.json(project);
-
-
 
 
 });
