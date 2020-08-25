@@ -1,4 +1,4 @@
-# Repository listing: Desafio 1 do GoStack 13 da Rocketseat
+# Repository listing: Desafio 02 do GoStack 13 da Rocketseat
 
 <h2>Descrição:</h2>
 <p>Neste repositório há a implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem, atualização, exclusão e inserção de likes em repositórios.
