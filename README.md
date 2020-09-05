@@ -15,7 +15,8 @@
   <li><b>1º</b>: Tenha o node instalado na sua máquina;</li>
   <li><b>2º</b>: Tenha o yarn instalado na sua máquina;</li>
   <li><b>3º</b>: Abra a pasta raiz no terminal e instale as dependências com: <b>yarn</b>;</li>
-  <li><b>3º</b>: Inicie a aplicação com: <b>yarn start</b></li>
+  <li><b>4º</b>: Inicie a aplicação com: <b>yarn start</b></li>
  
 
 </ul>
+
