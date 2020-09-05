@@ -2,22 +2,20 @@
 
 <h2>Descrição:</h2>
 <p>Neste repositório há a implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem, atualização, exclusão e inserção de likes em repositórios.
-  O <b>desafio completo</b> está <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">aqui</a>.
+  O <b>desafio completo</b> está <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">aqui</a>.
 </p>
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Principais tecnologias utilizadas</h2>
 <ul>
-  <li><b>NodeJS</b>: para a construção da API;</li>
-  <li><b>Express</b>: para o roteamento;</li>
-  <li><b>UUID</b>: para a geração de IDs;</li>
+  <li><b>ReactJS</b>: para a construção do front-end;</li>
 </ul>
 
-<h2>Instruções para começar a utilizar a API:</h2>
+<h2>Instruções para começar a utilizar:</h2>
 <ul>
   <li><b>1º</b>: Tenha o node instalado na sua máquina;</li>
   <li><b>2º</b>: Tenha o yarn instalado na sua máquina;</li>
-  <li><b>3º</b>: Abra a pasta raiz no terminal e instale as dependências com: <b>yarn install</b>;</li>
-  <li><b>3º</b>: Inicie o servidor com: <b>yarn dev</b></li>
-  <li><b>4º</b>Utilize algum simulador de cliente (insomnia, postman etc) e crie as requições lá para testar.</li>
+  <li><b>3º</b>: Abra a pasta raiz no terminal e instale as dependências com: <b>yarn</b>;</li>
+  <li><b>3º</b>: Inicie a aplicação com: <b>yarn start</b></li>
+ 
 
 </ul>
