@@ -1,8 +1,6 @@
-# Repository listing: Desafio 03 do GoStack 13 da Rocketseat
-
+# Repository listing
 <h2> Descrição: </h2>
 <p> Neste repositório há uma implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem, atualização, exclusão e exclusão de likes em repositórios.
-  O <b> desafio completo </b> está <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs"> aqui </a> .
 </p>
 <h2> Tecnologias utilizadas </h2>
 <ul>
